@@ -10,3 +10,9 @@ print("Done")
 
 for i in range(100):
     print(i)
+
+
+print("Done")
+# This code prints numbers from 0 to 99 and then prints "Done"
+
+
