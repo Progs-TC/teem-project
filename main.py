@@ -15,7 +15,19 @@ for i in range(100):
 print("Done")
 # This code prints numbers from 0 to 99 and then prints "Done"
 
+#lskdjflaksdjflasdkjf
 
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
 
 # ths is is si si si sissi jdslfkjaksjdfljasd;fj;sdkjfsdkjflsdkjf
 def myfunction():
